@@ -1,1 +1,1 @@
-docker build -t diejmon/swift_on_arm_dockerfiles:4_2_2 .
+docker build -t diejmon/swift_on_arm_dockerfiles:5_0 .
