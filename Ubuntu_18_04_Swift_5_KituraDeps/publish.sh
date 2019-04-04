@@ -1,0 +1,1 @@
+docker push diejmon/swift_on_arm_dockerfiles:5_0_kitura
